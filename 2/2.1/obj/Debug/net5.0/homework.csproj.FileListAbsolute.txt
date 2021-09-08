@@ -1,0 +1,16 @@
+c:\Users\x_sky\Desktop\Yapi\homework\2\2.1\obj\Debug\net5.0\homework.csproj.AssemblyReference.cache
+c:\Users\x_sky\Desktop\Yapi\homework\2\2.1\obj\Debug\net5.0\homework.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\x_sky\Desktop\Yapi\homework\2\2.1\obj\Debug\net5.0\homework.AssemblyInfoInputs.cache
+c:\Users\x_sky\Desktop\Yapi\homework\2\2.1\obj\Debug\net5.0\homework.AssemblyInfo.cs
+c:\Users\x_sky\Desktop\Yapi\homework\2\2.1\obj\Debug\net5.0\homework.csproj.CoreCompileInputs.cache
+C:\Users\x_sky\Desktop\Yapi\homework\2\2.1\bin\Debug\net5.0\homework.exe
+C:\Users\x_sky\Desktop\Yapi\homework\2\2.1\bin\Debug\net5.0\homework.deps.json
+C:\Users\x_sky\Desktop\Yapi\homework\2\2.1\bin\Debug\net5.0\homework.runtimeconfig.json
+C:\Users\x_sky\Desktop\Yapi\homework\2\2.1\bin\Debug\net5.0\homework.runtimeconfig.dev.json
+C:\Users\x_sky\Desktop\Yapi\homework\2\2.1\bin\Debug\net5.0\homework.dll
+C:\Users\x_sky\Desktop\Yapi\homework\2\2.1\bin\Debug\net5.0\ref\homework.dll
+C:\Users\x_sky\Desktop\Yapi\homework\2\2.1\bin\Debug\net5.0\homework.pdb
+C:\Users\x_sky\Desktop\Yapi\homework\2\2.1\obj\Debug\net5.0\homework.dll
+C:\Users\x_sky\Desktop\Yapi\homework\2\2.1\obj\Debug\net5.0\ref\homework.dll
+C:\Users\x_sky\Desktop\Yapi\homework\2\2.1\obj\Debug\net5.0\homework.pdb
+C:\Users\x_sky\Desktop\Yapi\homework\2\2.1\obj\Debug\net5.0\homework.genruntimeconfig.cache
